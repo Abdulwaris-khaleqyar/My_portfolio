@@ -52,13 +52,15 @@
 @media screen and (max-width: 600px) {
 
   .hamburger-menu{
-    width: 100%;
+    width: 50%;
     direction: rtl;
   }
   .hamburger-icon{
     position: relative;
   }
-
+.text-container p{
+  direction: rtl;
+}
 
   #contact,
   footer {
